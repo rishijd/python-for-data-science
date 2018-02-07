@@ -8,11 +8,11 @@ The program description (complete as of Feb 10, 2018),
 
 Class Hours: 18
 
-## What this program is about:
+### What this program is about:
 
 Our program serves as the foundation for many well-known concepts of data science. We teach practical techniques and algorithms for extracting and studying useful knowledge from data. This course is not a theory class as we believe there are many ways to learn statistics and analytics concepts on your own. We are providing students with a set of practical tools for data science and knowledge on how to apply Python to solve linear algebra, statistics, and probability problems. This course is designed to fill the gap between theoretical academic research and the needs of the industry. We will start with a crash course on the basics of the Python programming language and then learn how to use Python to turn raw data into insight and knowledge.
 
-## What to expect from this program:
+### What to expect from this program:
 
 Fundamental introduction to Data Science using Python programming language, practical application of different statistical, analytical and linear algebra models to a variety of data science projects, and feeling comfortable enough to apply acquired knowledge on your own seeking a junior data scientist position.
 
@@ -28,10 +28,10 @@ Fundamental introduction to Data Science using Python programming language, prac
 
 By the end of this course, you will have a Data Analytics Project to present to potential employers
 
-## How this program is organized:
+### How this program is organized:
 Lecture on new topics takes about 90 minutes and starts at 10.00am. After lecture, students start working on new exercises with instructor guidance. Around 1.00pm students present and discuss their work with instructors, learn alternative solutions, and best practices from instructors and invited data scientist professionals.
 
-## Python for Data Science Syllabus
+### Python for Data Science Syllabus
 Session 1
 
 Variables
