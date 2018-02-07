@@ -26,8 +26,6 @@ Fundamental introduction to Data Science using Python programming language, prac
 * Build your own analytical tools with Python from scratch
 * Become familiar with industry standards and learn the best practices for writing code
 
-By the end of this course, you will have a Data Analytics Project to present to potential employers
-
 ### How this program is organized:
 Lecture on new topics takes about 90 minutes and starts at 10.00am. After lecture, students start working on new exercises with instructor guidance. Around 1.00pm students present and discuss their work with instructors, learn alternative solutions, and best practices from instructors and invited data scientist professionals.
 
